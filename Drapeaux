@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Différentes versions de google</h1>
+<h2>Choix du pays à explorer.</h2>
+<a href="https://www.google.fr/"><img src="France.JPEG" alt= "France"></a>
+
+</body>
+</html>
